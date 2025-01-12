@@ -88,5 +88,5 @@ require_once 'inc/header-login.php';
 </div>
 
 <?php
-require_once 'inc/footer.php';
+require_once 'inc/footer-login.php';
 ?>
