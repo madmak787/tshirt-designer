@@ -9,7 +9,12 @@
     <link href="assets/css/plugins.bundle.css" rel="stylesheet" type="text/css"/>
     <link href="assets/css/style.bundle.css" rel="stylesheet" type="text/css"/>
     <!-- <link href="../assets/plugins/custom/datatables/datatables.bundle.css" rel="stylesheet" type="text/css"/> -->
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-lightness/jquery-ui.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/jquery.colorpicker.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/customizer.css" rel="stylesheet" type="text/css"/>
     <script>
+        var siteURL = 'http://localhost/tshirt/';
+        var canvas;
         var defaultThemeMode = "light";
         var themeMode;
 
