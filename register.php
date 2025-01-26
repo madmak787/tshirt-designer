@@ -2,11 +2,24 @@
 require_once 'inc/header-login.php';
 ?>
 
+<?php
+include 'inc/database.php';
+
+if(isset($_POST['register'])){
+
+    $username=$_POST['username'];
+    $email=$_POST['email'];
+    $password=$_POST['password'];
+    $sql = "INSERT INTO `users` ( `username`, `email`, `password`) VALUES ( '$username', '$email', '$password');";
+    mysqli_query($conn,$sql);
+}
+?>
+
 <div class="d-flex flex-column flex-lg-row-fluid w-lg-50 p-10 order-2 order-lg-1">
     <div class="d-flex flex-center flex-column flex-lg-row-fluid">
         <div class="w-lg-500px p-10">
 
-            <form class="form w-100" novalidate="novalidate" id="kt_sign_in_form" action="#">
+            <form class="form w-100" method="POST" id="kt_sign_in_form" >
                 <div class="text-center mb-11">
                     <h1 class="text-gray-900 fw-bolder mb-3">
                         Sign Up
@@ -16,7 +29,11 @@ require_once 'inc/header-login.php';
                         T-Shirt Designer
                     </div>
                 </div>
-
+                
+                <div class="fv-row mb-3">
+                    <input type="text" placeholder="username" name="username" autocomplete="off"
+                        class="form-control bg-transparent" />
+                </div>
                 <div class="fv-row mb-3">
                     <input type="text" placeholder="Email" name="email" autocomplete="off"
                         class="form-control bg-transparent" />
@@ -26,13 +43,9 @@ require_once 'inc/header-login.php';
                     <input type="password" placeholder="Password" name="password" autocomplete="off"
                         class="form-control bg-transparent" />
                 </div>
-                <div class="fv-row mb-3">
-                    <input type="password" placeholder="Password" name="password" autocomplete="off"
-                        class="form-control bg-transparent" />
-                </div>
 
                 <div class="d-grid mb-10">
-                    <button type="submit" id="kt_sign_in_submit" class="btn btn-primary">
+                    <button name="register" type="text" id="kt_sign_in_submit" class="btn btn-primary" >
 
                         <span class="indicator-label">Sign Up</span>
 
@@ -55,20 +68,22 @@ require_once 'inc/header-login.php';
 
     <div class="w-lg-500px d-flex flex-stack px-10 mx-auto">
         <div class="d-flex fw-semibold text-primary fs-base gap-5">
-            <a href="https://instagram.com/madmak787" target="_blank">MAK</a>
+            <a href="https://instagram.com/http_aman_ig" target="_blank">MAK</a>
         </div>
     </div>
 </div>
 
-<div class="d-flex flex-lg-row-fluid w-lg-50 bgi-size-cover bgi-position-center order-1 order-lg-2" style="background-image: url(assets/img/auth-bg.png)">
-    <div class="d-flex flex-column flex-center py-7 py-lg-15 px-5 px-md-15 w-100">
-        <a href="#" class="mb-0 mb-lg-12">
+<div class="d-flex flex-lg-row-fluid w-lg-50 bgi-size-cover bgi-position-center order-1 order-lg-2">
+    <video src="assets\vid\register video.mp4"  class="w-650px my-10 h-lg-650px" autoplay loop muted></video>
+
+    <!-- <div class="d-flex flex-column flex-center py-7 py-lg-15 px-5 px-md-15 w-100"> -->
+        <!-- <a href="#" class="mb-0 mb-lg-12">
             <img alt="Logo" src="assets/img/custom-1.png" class="h-60px h-lg-75px" />
-        </a>
+        </a> -->
 
-        <img class="d-none d-lg-block mx-auto w-275px w-md-50 w-xl-500px mb-10 mb-lg-20" src="assets/img/auth-screens.png" alt="" />
+        <!-- <img class="d-none d-lg-block mx-auto w-275px w-md-50 w-xl-500px mb-10 mb-lg-20" src="assets/img/auth-screens.png" alt="" /> -->
 
-        <h1 class="d-none d-lg-block text-white fs-2qx fw-bolder text-center mb-7">
+        <!-- <h1 class="d-none d-lg-block text-white fs-2qx fw-bolder text-center mb-7">
             Fast, Efficient and Productive
         </h1>
 
@@ -78,7 +93,7 @@ require_once 'inc/header-login.php';
             introduces a person they’ve interviewed <br /> and provides some background information about
 
             <a href="#" class="opacity-75-hover text-warning fw-bold me-1">the interviewee</a>
-            and their <br /> work following this is a transcript of the interview.
+            and their <br /> work following this is a transcript of the interview. -->
         </div>
     </div>
 </div>
