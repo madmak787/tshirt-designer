@@ -13,7 +13,13 @@
     <link rel='stylesheet' href='css/global.css'>
     <link rel='stylesheet' href='css/structure.css'>
     <link rel='stylesheet' href='css/computershop.css'>
+    <link rel='stylesheet' href='css/bootstrap.min.css'>
     <link rel='stylesheet' href='css/custom.css'>
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script>
+        var siteURL = 'http://localhost/tshirt/';
+        var canvas;
+    </script>
 </head>
 <body class="home page-template-default page theme-betheme woocommerce-no-js template-slider  color-custom style-simple button-custom layout-full-width if-zoom if-border-hide no-content-padding no-shadows header-classic header-fw minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-no-borders mobile-tb-center mobile-side-slide mobile-mini-mr-lc tablet-sticky mobile-header-mini mobile-sticky">
     <div id="Wrapper">

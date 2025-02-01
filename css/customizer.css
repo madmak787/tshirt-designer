@@ -1,9 +1,7 @@
 .ps-100px {
 	padding-left: 100px;
 }
-#playground {
-	position: relative;
-}
+
 #playground .container {
     background-color: #ffffff;
     color: #000000;
@@ -71,6 +69,7 @@
 }
 #playground .position-relative {
 	background-color: #a4afb9;
+	position: relative;
 }
 
 canvas {
@@ -108,8 +107,4 @@ canvas {
 }
 .text li button[type="button"] {
 	display: none;
-}
-.menu-wrap {
-	max-width: 300px;
-	background-color: #fff;
 }

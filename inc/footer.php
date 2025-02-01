@@ -100,10 +100,10 @@
             </div>
         </footer>
     </div>
-    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/fabric.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-
-    <script src="js/mfn.menu.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
+    <script src="js/jquery.colorpicker.js"></script>
+    <script src="js/customizer.js"></script>
 </body>
 </html>
