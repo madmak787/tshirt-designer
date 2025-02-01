@@ -50,23 +50,21 @@ require_once 'inc/header.php';
                         </a>
                     </li>
                     <li>
-                        <a href="#">
-                            <i class="ki-duotone ki-update-file">
+                        <a href="#" onClick="return undo();">
+                            <i class="ki-duotone ki-arrow-circle-left">
                                 <span class="path1"></span>
                                 <span class="path2"></span>
-                                <span class="path3"></span>
-                                <span class="path4"></span>
                             </i>
-                            <span>Images</span>
+                            <span>Undo</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
-                            <i class="ki-duotone ki-abstract-29">
+                        <a href="#" onClick="return redo();">
+                            <i class="ki-duotone ki-arrow-circle-right">
                                 <span class="path1"></span>
                                 <span class="path2"></span>
                             </i>
-                            <span>Add Text</span>
+                            <span>Redo</span>
                         </a>
                     </li>
                 </ul>

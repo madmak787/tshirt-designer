@@ -1,513 +1,367 @@
 <?php
 require_once 'inc/header.php';
 ?>
+            <div class="content_wrapper clearfix">
+                <div class="sections_group">
+                    <div class="entry-content">
+                        <div class="section mcb-section mcb-section-uog0z4zi7" style="padding-top:110px">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap mcb-wrap-l5lmqfc3x one  valign-top clearfix">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column mcb-item-rvufn79k5 one column_column">
+                                            <div class="column_attr clearfix align_center" style>
+                                                <h3>Choose a category</h3>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-c8nw9l7o1 one column_column">
+                                            <div class="column_attr clearfix align_center" style>
+                                                <div class="woocommerce columns-5">
+                                                    <div class="products_wrapper isotope_wrapper">
+                                                        <ul class="products ">
+                                                            <li class="product-category product first">
+                                                                <a href="content/computershop/core-parts.html"><img src="content/computershop/images/computershop-category-pic4-480x480.png" ><h2 class="woocommerce-loop-category__title"> Accessories
+																	<mark class="count">
+																		(6)
+																	</mark></h2> </a>
+                                                            </li>
+                                                            <li class="product-category product">
+                                                                <a href="content/computershop/core-parts.html"><img src="content/computershop/images/computershop-category-pic2-480x480.png" ><h2 class="woocommerce-loop-category__title"> Core parts
+																	<mark class="count">
+																		(8)
+																	</mark></h2> </a>
+                                                            </li>
+                                                            <li class="product-category product">
+                                                                <a href="content/computershop/core-parts.html"><img src="content/computershop/images/computershop-category-pic3-480x480.png" ><h2 class="woocommerce-loop-category__title"> Peripherals
+																	<mark class="count">
+																		(5)
+																	</mark></h2> </a>
+                                                            </li>
+                                                            <li class="product-category product">
+                                                                <a href="content/computershop/core-parts.html"><img src="content/computershop/images/computershop-category-pic5-480x480.png" ><h2 class="woocommerce-loop-category__title"> Printers
+																	<mark class="count">
+																		(3)
+																	</mark></h2> </a>
+                                                            </li>
+                                                            <li class="product-category product last">
+                                                                <a href="content/computershop/core-parts.html"><img src="content/computershop/images/computershop-category-pic1-480x480.png" ><h2 class="woocommerce-loop-category__title"> Workstations
+																	<mark class="count">
+																		(4)
+																	</mark></h2> </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-12eq0dx57 one column_divider">
+                                            <hr class="no_line" style="margin:0 auto 40px">
+                                        </div>
+                                        <div class="column mcb-column mcb-item-m6ga32t21 one column_column">
+                                            <div class="column_attr clearfix align_center" style>
+                                                <h2>Promoted products</h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section mcb-section mcb-section-283tmwf4q  no-margin-h equal-height-wrap" style="padding-bottom:140px">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap mcb-wrap-04vlzaltu one-second computershop-monthly-specials valign-top clearfix" style="padding:60px 5% 15px;background-color:#f2cec8">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column mcb-item-rwdv1cosy one column_shop_slider">
+                                            <div class="shop_slider" data-count="3">
+                                                <div class="blog_slider_header clearfix">
+                                                    <h4 class="title">Monthly specials</h4>
+                                                    <div class="slider_navigation"></div>
+                                                </div>
+                                                <ul class="shop_slider_ul">
+                                                    <li class="post-59 product type-product status-publish has-post-thumbnail product_cat-core-parts product_cat-peripherals first instock sale shipping-taxable purchasable product-type-simple">
+                                                        <div class="item_wrapper">
+                                                            <div class="image_frame scale-with-grid product-loop-thumb">
+                                                                <div class="image_wrapper">
+                                                                    <a href="content/computershop/product.html">
+                                                                        <div class="mask"></div><img width="480" height="480" src="content/computershop/images/computershop-products-pic3-480x480.png" class="scale-with-grid wp-post-image" alt loading="lazy"></a>
+                                                                    <div class="image_links">
+                                                                        <a class="link" href="content/computershop/product.html"><i class="icon-link"></i></a>
+                                                                    </div>
+                                                                </div><span class="onsale"><i class="icon-star"></i></span>
+                                                            </div>
+                                                            <div class="desc">
+                                                                <h4><a href="content/computershop/product.html">Aliquam 2020</a></h4><span class="price"><del><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>920.00
+                                                                </bdi>
+                                                                </span>
+                                                                </del> <ins><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>880.00
+																				</bdi></span></ins></span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="post-56 product type-product status-publish has-post-thumbnail product_cat-accessories product_cat-core-parts  instock sale shipping-taxable purchasable product-type-simple">
+                                                        <div class="item_wrapper">
+                                                            <div class="image_frame scale-with-grid product-loop-thumb">
+                                                                <div class="image_wrapper">
+                                                                    <a href="content/computershop/product.html">
+                                                                        <div class="mask"></div><img width="480" height="480" src="content/computershop/images/computershop-products-pic6-480x480.png" class="scale-with-grid wp-post-image" alt loading="lazy"></a>
+                                                                    <div class="image_links">
+                                                                        <a class="link" href="content/computershop/product.html"><i class="icon-link"></i></a>
+                                                                    </div>
+                                                                </div><span class="onsale"><i class="icon-star"></i></span>
+                                                            </div>
+                                                            <div class="desc">
+                                                                <h4><a href="content/computershop/product.html">Sagittis</a></h4><span class="price"><del><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>380.00
+                                                                </bdi>
+                                                                </span>
+                                                                </del> <ins><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>320.00
+																				</bdi></span></ins></span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="post-55 product type-product status-publish has-post-thumbnail product_cat-accessories product_cat-printers last instock sale shipping-taxable purchasable product-type-simple">
+                                                        <div class="item_wrapper">
+                                                            <div class="image_frame scale-with-grid product-loop-thumb">
+                                                                <div class="image_wrapper">
+                                                                    <a href="content/computershop/product.html">
+                                                                        <div class="mask"></div><img width="480" height="480" src="content/computershop/images/computershop-products-pic7-480x480.png" class="scale-with-grid wp-post-image" alt loading="lazy"></a>
+                                                                    <div class="image_links">
+                                                                        <a class="link" href="content/computershop/product.html"><i class="icon-link"></i></a>
+                                                                    </div>
+                                                                </div><span class="onsale"><i class="icon-star"></i></span>
+                                                            </div>
+                                                            <div class="desc">
+                                                                <h4><a href="content/computershop/product.html">Lobortis 3.5</a></h4><span class="price"><del><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>220.00
+                                                                </bdi>
+                                                                </span>
+                                                                </del> <ins><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>200.00
+																				</bdi></span></ins></span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                                <div class="slider_pager slider_pagination"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="wrap mcb-wrap mcb-wrap-yrpu5vxg3 one-second computershop-discount valign-top clearfix" style="padding:60px 5% 15px;background-color:#8dcce3">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column mcb-item-nwk8ajsoo one column_column">
+                                            <div class="column_attr clearfix align_center" style="background-color:#8dcce3;">
+                                                <h4>Black Friday Sale</h4>
+                                                <h3>Up to <strong>50%</strong> OFF</h3>
+                                                <hr class="no_line" style="margin:0 auto 15px">
+                                                <div class="image_frame image_item no_link scale-with-grid alignnone no_border">
+                                                    <div class="image_wrapper"><img class="scale-with-grid" src="content/computershop/images/computershop-home-pic1.png">
+                                                    </div>
+                                                </div>
+                                                <hr class="no_line" style="margin:0 auto 30px">
+                                                <h5>Sale starts on November 24th</h5>
+                                                <hr class="no_line" style="margin:0 auto 15px">
+                                                <a class="button  button_size_2" href="content/computershop/our-products.html"><span class="button_label">SEE ALL OFFERS</span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section mcb-section mcb-section-75rl80ivd  equal-height-wrap bg-cover" style="background-color:#8ccbe1;background-image:url(content/computershop/images/computershop-sectionbg2.jpg);background-repeat:no-repeat;background-position:center">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap mcb-wrap-g4pe2dneq one-second  column-margin-0px valign-bottom move-up clearfix" style="margin-top:-40px">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column mcb-item-exbdmc7rm one column_image">
+                                            <div class="image_frame image_item no_link scale-with-grid aligncenter no_border" style="margin-bottom:-40px;">
+                                                <div class="image_wrapper"><img class="scale-with-grid" src="content/computershop/images/computershop-home-pic3.png">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="wrap mcb-wrap mcb-wrap-jr814d83i one-second  valign-middle clearfix" style="padding:70px 0">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column mcb-item-wn95wm0d5 one column_column column-margin-20px">
+                                            <div class="column_attr clearfix" style>
+                                                <h6 style="color: #fff;"><span style="color: #000f3b;">—</span> ABOUT OUR SHOP</h6>
+                                                <h2 style="color: #fff;">Everything what you <span style="color: #000f3b;">need for work</span></h2>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-we0kc0cy3 one column_column column-margin-10px">
+                                            <div class="column_attr clearfix" style="background-image:url('content/computershop/images/computershop-icon1.png');background-repeat:no-repeat;background-position:left top;padding:1px 0 0 50px;">
+                                                <p style="color: #fff;">
+                                                    Lorem ipsum dolor sit amet enim
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-sawghm2jk one column_column column-margin-10px">
+                                            <div class="column_attr clearfix" style="background-image:url('content/computershop/images/computershop-icon1.png');background-repeat:no-repeat;background-position:left top;padding:1px 0 0 50px;">
+                                                <p style="color: #fff;">
+                                                    Vestibulum dapibus, mauris nec malesuada
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-vgw02ms2n one column_column column-margin-20px">
+                                            <div class="column_attr clearfix" style="background-image:url('content/computershop/images/computershop-icon1.png');background-repeat:no-repeat;background-position:left top;padding:1px 0 0 50px;">
+                                                <p style="color: #fff;">
+                                                    Quisque lorem tortor fringilla vestibulum id
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-dcdt8kkrr one column_button">
+                                            <a class="button  has-icon button_right button_size_2 button_theme" href="content/computershop/about.html"><span class="button_icon"><i class="icon-right-open-mini"></i></span><span class="button_label">READ MORE</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section mcb-section mcb-section-sf0qa4cyl" style="padding-top:110px;padding-bottom:70px">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap mcb-wrap-p0lg6tyb3 one  valign-top clearfix">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column mcb-item-qearrf055 one column_column">
+                                            <div class="column_attr clearfix align_center" style>
+                                                <h2>New products</h2>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-bxgtyedex one column_shop">
+                                            <div class="woocommerce columns-4 ">
+                                                <div class="products_wrapper isotope_wrapper">
+                                                    <ul class="products ">
+                                                        <li class="isotope-item product type-product post-62 status-publish first instock product_cat-core-parts product_cat-workstations product_tag-23 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+                                                            <div class="image_frame scale-with-grid product-loop-thumb" ontouchstart="this.classList.toggle('hover');">
+                                                                <div class="image_wrapper">
+                                                                    <a href="content/computershop/product.html">
+                                                                        <div class="mask"></div><img width="480" height="480" src="content/computershop/images/computershop-products-pic1-480x480.png" class="scale-with-grid wp-post-image" alt loading="lazy"></a>
+                                                                    <div class="image_links double">
+                                                                        <a rel="nofollow" href="#" data-quantity="1" data-product_id="62" class="add_to_cart_button ajax_add_to_cart product_type_simple"><i class="icon-basket"></i></a><a class="link" href="content/computershop/product.html"><i class="icon-link"></i></a>
+                                                                    </div>
+                                                                </div><a href="content/computershop/product.html"><span class="product-loading-icon added-cart"></span></a>
+                                                            </div>
+                                                            <div class="desc">
+                                                                <h4><a href="content/computershop/product.html">Volutpat RTS</a></h4><span class="price"><span class="woocommerce-Price-amount amount">
+																			<bdi>
+																				<span class="woocommerce-Price-currencySymbol">&pound;</span>600.00
+                                                                </bdi>
+                                                                </span>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li class="isotope-item product type-product post-60 status-publish instock product_cat-accessories product_cat-peripherals has-post-thumbnail shipping-taxable purchasable product-type-simple">
+                                                            <div class="image_frame scale-with-grid product-loop-thumb" ontouchstart="this.classList.toggle('hover');">
+                                                                <div class="image_wrapper">
+                                                                    <a href="content/computershop/product.html">
+                                                                        <div class="mask"></div><img width="480" height="480" src="content/computershop/images/computershop-products-pic2-480x480.png" class="scale-with-grid wp-post-image" alt loading="lazy"></a>
+                                                                    <div class="image_links double">
+                                                                        <a rel="nofollow" href="#" data-quantity="1" data-product_id="60" class="add_to_cart_button ajax_add_to_cart product_type_simple"><i class="icon-basket"></i></a><a class="link" href="content/computershop/product.html"><i class="icon-link"></i></a>
+                                                                    </div>
+                                                                </div><a href="content/computershop/product.html"><span class="product-loading-icon added-cart"></span></a>
+                                                            </div>
+                                                            <div class="desc">
+                                                                <h4><a href="content/computershop/product.html">Integer 5 ADV</a></h4><span class="price"><span class="woocommerce-Price-amount amount">
+																			<bdi>
+																				<span class="woocommerce-Price-currencySymbol">&pound;</span>170.00
+                                                                </bdi>
+                                                                </span>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li class="isotope-item product type-product post-59 status-publish instock product_cat-core-parts product_cat-peripherals has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                                            <div class="image_frame scale-with-grid product-loop-thumb" ontouchstart="this.classList.toggle('hover');">
+                                                                <div class="image_wrapper">
+                                                                    <a href="content/computershop/product.html">
+                                                                        <div class="mask"></div><img width="480" height="480" src="content/computershop/images/computershop-products-pic3-480x480.png" class="scale-with-grid wp-post-image" alt loading="lazy"></a>
+                                                                    <div class="image_links double">
+                                                                        <a rel="nofollow" href="#" data-quantity="1" data-product_id="59" class="add_to_cart_button ajax_add_to_cart product_type_simple"><i class="icon-basket"></i></a><a class="link" href="content/computershop/product.html"><i class="icon-link"></i></a>
+                                                                    </div>
+                                                                </div><span class="onsale"><i class="icon-star"></i></span><a href="content/computershop/product.html"><span class="product-loading-icon added-cart"></span></a>
+                                                            </div>
+                                                            <div class="desc">
+                                                                <h4><a href="content/computershop/product.html">Aliquam 2020</a></h4><span class="price"><del><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>920.00
+                                                                </bdi>
+                                                                </span>
+                                                                </del> <ins><span class="woocommerce-Price-amount amount">
+																				<bdi>
+																					<span class="woocommerce-Price-currencySymbol">&pound;</span>880.00
+																				</bdi></span></ins></span>
+                                                            </div>
+                                                        </li>
+                                                        <li class="isotope-item product type-product post-58 status-publish last instock product_cat-core-parts product_cat-workstations has-post-thumbnail shipping-taxable purchasable product-type-simple">
+                                                            <div class="image_frame scale-with-grid product-loop-thumb" ontouchstart="this.classList.toggle('hover');">
+                                                                <div class="image_wrapper">
+                                                                    <a href="content/computershop/product.html">
+                                                                        <div class="mask"></div><img width="480" height="480" src="content/computershop/images/computershop-products-pic4-480x480.png" class="scale-with-grid wp-post-image" alt loading="lazy"></a>
+                                                                    <div class="image_links double">
+                                                                        <a rel="nofollow" href="#" data-quantity="1" data-product_id="58" class="add_to_cart_button ajax_add_to_cart product_type_simple"><i class="icon-basket"></i></a><a class="link" href="content/computershop/product.html"><i class="icon-link"></i></a>
+                                                                    </div>
+                                                                </div><a href="content/computershop/product.html"><span class="product-loading-icon added-cart"></span></a>
+                                                            </div>
+                                                            <div class="desc">
+                                                                <h4><a href="content/computershop/product.html">Curabitur ligula ED6</a></h4><span class="price"><span class="woocommerce-Price-amount amount">
+																			<bdi>
+																				<span class="woocommerce-Price-currencySymbol">&pound;</span>670.00
+                                                                </bdi>
+                                                                </span>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section mcb-section mcb-section-eh7qmcwd8 bg-contain" style="padding-top:110px;padding-bottom:70px;background-color:#fbbcad;background-image:url(content/computershop/images/computershop-sectionbg1.png);background-repeat:no-repeat;background-position:center bottom">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap mcb-wrap-rosa88hn5 one  valign-top clearfix">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column mcb-item-riqiessbn one column_column">
+                                            <div class="column_attr clearfix align_center" style>
+                                                <h6 style="color: #fff4f1;">DON'T MISS ANYTHING</h6>
+                                                <h2 style="color: #fff;">Subscribe to our newsletter
+                                                    <br> and grab <span style="color: #000f3b;"><strong>30% OFF!</strong></span></h2>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-4l9efmab0 one-fifth column_placeholder">
+                                            <div class="placeholder">
+                                                &nbsp;
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column mcb-item-mctduakfp three-fifth column_column">
+                                            <div class="column_attr clearfix align_center" style>
 
-<div class="app-main flex-column flex-row-fluid " id="kt_app_main">
-    <div class="d-flex flex-column flex-column-fluid">
 
-        <div id="kt_app_toolbar" class="app-toolbar  py-3 py-lg-6 ">
+                                                <div id="mc4wp-form-1" class="form mc4wp-form">
+                                                    <form id="newsletterform" class="newsletter_form">
+                                                        <input placeholder="Your email address" type="email" id="email_news" name="email_news" size="40" aria-required="true" aria-invalid="false" />
+                                                        <input type="button" value="SUBSCRIBE" id="submit" onClick="return check_values_news();">
+                                                    </form>
+                                                </div>
 
-            <div id="kt_app_toolbar_container" class="app-container  container-fluid d-flex flex-stack ">
 
-                <div class="page-title d-flex flex-column justify-content-center flex-wrap me-3 ">
-                    <h1 class="page-heading d-flex text-gray-900 fw-bold fs-3 flex-column justify-content-center my-0">
-                        Multipurpose
-                    </h1>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
-                    <ul class="breadcrumb breadcrumb-separatorless fw-semibold fs-7 my-0 pt-1">
-                        <li class="breadcrumb-item text-muted">
-                            <a href="index.html" class="text-muted text-hover-primary">
-                                Home </a>
-                        </li>
-                        <li class="breadcrumb-item">
-                            <span class="bullet bg-gray-500 w-5px h-2px"></span>
-                        </li>
-                        <li class="breadcrumb-item text-muted">
-                            Dashboards </li>
-                    </ul>
-                </div>
-                <div class="d-flex align-items-center gap-2 gap-lg-3">
-
-                    <a href="#" class="btn btn-sm fw-bold btn-secondary" data-bs-toggle="modal"
-                        data-bs-target="#kt_modal_create_app">
-                        Rollover </a>
-
-                    <a href="#" class="btn btn-sm fw-bold btn-primary" data-bs-toggle="modal"
-                        data-bs-target="#kt_modal_new_target">
-                        Add Target </a>
+                    </div>
                 </div>
             </div>
         </div>
-
-        <div id="kt_app_content" class="app-content  flex-column-fluid ">
-
-            <div id="kt_app_content_container" class="app-container  container-fluid ">
-                <div class="row g-5 gx-xl-10 mb-5 mb-xl-10">
-
-
-                    <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-3 mb-md-5 mb-xl-10">
-                        <!--begin::Card widget 20-->
-                        <div class="card card-flush bgi-no-repeat bgi-size-contain bgi-position-x-end h-md-50 mb-5 mb-xl-10"
-                            style="background-color: #F1416C;background-image:url('assets/media/patterns/vector-1.png')">
-                            <!--begin::Header-->
-                            <div class="card-header pt-5">
-                                <!--begin::Title-->
-                                <div class="card-title d-flex flex-column">
-                                    <!--begin::Amount-->
-                                    <span class="fs-2hx fw-bold text-white me-2 lh-1 ls-n2">69</span>
-                                    <!--end::Amount-->
-
-                                    <!--begin::Subtitle-->
-                                    <span class="text-white opacity-75 pt-1 fw-semibold fs-6">Active
-                                        Projects</span>
-                                    <!--end::Subtitle-->
-                                </div>
-                                <!--end::Title-->
-                            </div>
-                            <!--end::Header-->
-
-                            <!--begin::Card body-->
-                            <div class="card-body d-flex align-items-end pt-0">
-                                <!--begin::Progress-->
-                                <div class="d-flex align-items-center flex-column mt-3 w-100">
-                                    <div
-                                        class="d-flex justify-content-between fw-bold fs-6 text-white opacity-75 w-100 mt-auto mb-2">
-                                        <span>43 Pending</span>
-                                        <span>72%</span>
-                                    </div>
-
-                                    <div class="h-8px mx-3 w-100 bg-white bg-opacity-50 rounded">
-                                        <div class="bg-white rounded h-8px" role="progressbar" style="width: 72%;"
-                                            aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                </div>
-                                <!--end::Progress-->
-                            </div>
-                            <!--end::Card body-->
-                        </div>
-                        <!--end::Card widget 20-->
-
-                        <!--begin::Card widget 7-->
-                        <div class="card card-flush h-md-50 mb-5 mb-xl-10">
-                            <!--begin::Header-->
-                            <div class="card-header pt-5">
-                                <!--begin::Title-->
-                                <div class="card-title d-flex flex-column">
-                                    <!--begin::Amount-->
-                                    <span class="fs-2hx fw-bold text-gray-900 me-2 lh-1 ls-n2">357</span>
-                                    <!--end::Amount-->
-
-                                    <!--begin::Subtitle-->
-                                    <span class="text-gray-500 pt-1 fw-semibold fs-6">Professionals</span>
-                                    <!--end::Subtitle-->
-                                </div>
-                                <!--end::Title-->
-                            </div>
-                            <!--end::Header-->
-
-                            <!--begin::Card body-->
-                            <div class="card-body d-flex flex-column justify-content-end pe-0">
-                                <!--begin::Title-->
-                                <span class="fs-6 fw-bolder text-gray-800 d-block mb-2">Today’s
-                                    Heroes</span>
-                                <!--end::Title-->
-
-                                <!--begin::Users group-->
-                                <div class="symbol-group symbol-hover flex-nowrap">
-                                    <div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip"
-                                        title="Alan Warden">
-                                        <span class="symbol-label bg-warning text-inverse-warning fw-bold">A</span>
-                                    </div>
-                                    <div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip"
-                                        title="Michael Eberon">
-                                        <img alt="Pic" src="assets/media/avatars/300-11.jpg" />
-                                    </div>
-                                    <div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip"
-                                        title="Susan Redwood">
-                                        <span class="symbol-label bg-primary text-inverse-primary fw-bold">S</span>
-                                    </div>
-                                    <div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip"
-                                        title="Melody Macy">
-                                        <img alt="Pic" src="assets/media/avatars/300-2.jpg" />
-                                    </div>
-                                    <div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip"
-                                        title="Perry Matthew">
-                                        <span class="symbol-label bg-danger text-inverse-danger fw-bold">P</span>
-                                    </div>
-                                    <div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip"
-                                        title="Barry Walter">
-                                        <img alt="Pic" src="assets/media/avatars/300-12.jpg" />
-                                    </div>
-                                    <a href="#" class="symbol symbol-35px symbol-circle" data-bs-toggle="modal"
-                                        data-bs-target="#kt_modal_view_users">
-                                        <span class="symbol-label bg-dark text-gray-300 fs-8 fw-bold">+42</span>
-                                    </a>
-                                </div>
-                                <!--end::Users group-->
-                            </div>
-                            <!--end::Card body-->
-                        </div>
-                        <!--end::Card widget 7-->
-                    </div>
-                    <!--end::Col-->
-
-                    <!--begin::Col-->
-                    <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-3 mb-md-5 mb-xl-10">
-
-                        <!--begin::Card widget 17-->
-                        <div class="card card-flush h-md-50 mb-5 mb-xl-10">
-                            <!--begin::Header-->
-                            <div class="card-header pt-5">
-                                <!--begin::Title-->
-                                <div class="card-title d-flex flex-column">
-                                    <!--begin::Info-->
-                                    <div class="d-flex align-items-center">
-                                        <!--begin::Currency-->
-                                        <span class="fs-4 fw-semibold text-gray-500 me-1 align-self-start">$</span>
-                                        <!--end::Currency-->
-
-                                        <!--begin::Amount-->
-                                        <span class="fs-2hx fw-bold text-gray-900 me-2 lh-1 ls-n2">69,700</span>
-                                        <!--end::Amount-->
-
-                                        <!--begin::Badge-->
-                                        <span class="badge badge-light-success fs-base">
-                                            <i class="ki-duotone ki-arrow-up fs-5 text-success ms-n1"><span
-                                                    class="path1"></span><span class="path2"></span></i>
-                                            2.2%
-                                        </span>
-                                        <!--end::Badge-->
-                                    </div>
-                                    <!--end::Info-->
-
-                                    <!--begin::Subtitle-->
-                                    <span class="text-gray-500 pt-1 fw-semibold fs-6">Projects Earnings
-                                        in April</span>
-                                    <!--end::Subtitle-->
-                                </div>
-                                <!--end::Title-->
-                            </div>
-                            <!--end::Header-->
-
-                            <!--begin::Card body-->
-                            <div class="card-body pt-2 pb-4 d-flex flex-wrap align-items-center">
-                                <!--begin::Chart-->
-                                <div class="d-flex flex-center me-5 pt-2">
-                                    <div id="kt_card_widget_17_chart" style="min-width: 70px; min-height: 70px"
-                                        data-kt-size="70" data-kt-line="11">
-                                    </div>
-                                </div>
-                                <!--end::Chart-->
-
-                                <!--begin::Labels-->
-                                <div class="d-flex flex-column content-justify-center flex-row-fluid">
-                                    <!--begin::Label-->
-                                    <div class="d-flex fw-semibold align-items-center">
-                                        <!--begin::Bullet-->
-                                        <div class="bullet w-8px h-3px rounded-2 bg-success me-3"></div>
-                                        <!--end::Bullet-->
-
-                                        <!--begin::Label-->
-                                        <div class="text-gray-500 flex-grow-1 me-4">Leaf CRM</div>
-                                        <!--end::Label-->
-
-                                        <!--begin::Stats-->
-                                        <div class="fw-bolder text-gray-700 text-xxl-end">$7,660</div>
-                                        <!--end::Stats-->
-                                    </div>
-                                    <!--end::Label-->
-
-                                    <!--begin::Label-->
-                                    <div class="d-flex fw-semibold align-items-center my-3">
-                                        <!--begin::Bullet-->
-                                        <div class="bullet w-8px h-3px rounded-2 bg-primary me-3"></div>
-                                        <!--end::Bullet-->
-
-                                        <!--begin::Label-->
-                                        <div class="text-gray-500 flex-grow-1 me-4">Mivy App</div>
-                                        <!--end::Label-->
-
-                                        <!--begin::Stats-->
-                                        <div class="fw-bolder text-gray-700 text-xxl-end">$2,820</div>
-                                        <!--end::Stats-->
-                                    </div>
-                                    <!--end::Label-->
-
-                                    <!--begin::Label-->
-                                    <div class="d-flex fw-semibold align-items-center">
-                                        <!--begin::Bullet-->
-                                        <div class="bullet w-8px h-3px rounded-2 me-3"
-                                            style="background-color: #E4E6EF"></div>
-                                        <!--end::Bullet-->
-
-                                        <!--begin::Label-->
-                                        <div class="text-gray-500 flex-grow-1 me-4">Others</div>
-                                        <!--end::Label-->
-
-                                        <!--begin::Stats-->
-                                        <div class=" fw-bolder text-gray-700 text-xxl-end">$45,257</div>
-                                        <!--end::Stats-->
-                                    </div>
-                                    <!--end::Label-->
-                                </div>
-                                <!--end::Labels-->
-                            </div>
-                            <!--end::Card body-->
-                        </div>
-                        <!--end::Card widget 17-->
-
-                        <!--begin::List widget 26-->
-                        <div class="card card-flush h-lg-50">
-                            <!--begin::Header-->
-                            <div class="card-header pt-5">
-                                <!--begin::Title-->
-                                <h3 class="card-title text-gray-800 fw-bold">External Links</h3>
-                                <!--end::Title-->
-
-                                <!--begin::Toolbar-->
-                                <div class="card-toolbar">
-                                    <!--begin::Menu-->
-                                    <button
-                                        class="btn btn-icon btn-color-gray-500 btn-active-color-primary justify-content-end"
-                                        data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end"
-                                        data-kt-menu-overflow="true">
-                                        <i class="ki-duotone ki-dots-square fs-1 text-gray-500 me-n1"><span
-                                                class="path1"></span><span class="path2"></span><span
-                                                class="path3"></span><span class="path4"></span></i>
-                                    </button>
-
-
-                                    <!--begin::Menu 2-->
-                                    <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-semibold w-200px"
-                                        data-kt-menu="true">
-                                        <!--begin::Menu item-->
-                                        <div class="menu-item px-3">
-                                            <div class="menu-content fs-6 text-gray-900 fw-bold px-3 py-4">
-                                                Quick Actions</div>
-                                        </div>
-                                        <!--end::Menu item-->
-
-                                        <!--begin::Menu separator-->
-                                        <div class="separator mb-3 opacity-75"></div>
-                                        <!--end::Menu separator-->
-
-                                        <!--begin::Menu item-->
-                                        <div class="menu-item px-3">
-                                            <a href="#" class="menu-link px-3">
-                                                New Ticket
-                                            </a>
-                                        </div>
-                                        <!--end::Menu item-->
-
-                                        <!--begin::Menu item-->
-                                        <div class="menu-item px-3">
-                                            <a href="#" class="menu-link px-3">
-                                                New Customer
-                                            </a>
-                                        </div>
-                                        <!--end::Menu item-->
-
-                                        <!--begin::Menu item-->
-                                        <div class="menu-item px-3" data-kt-menu-trigger="hover"
-                                            data-kt-menu-placement="right-start">
-                                            <!--begin::Menu item-->
-                                            <a href="#" class="menu-link px-3">
-                                                <span class="menu-title">New Group</span>
-                                                <span class="menu-arrow"></span>
-                                            </a>
-                                            <!--end::Menu item-->
-
-                                            <!--begin::Menu sub-->
-                                            <div class="menu-sub menu-sub-dropdown w-175px py-4">
-                                                <!--begin::Menu item-->
-                                                <div class="menu-item px-3">
-                                                    <a href="#" class="menu-link px-3">
-                                                        Admin Group
-                                                    </a>
-                                                </div>
-                                                <!--end::Menu item-->
-
-                                                <!--begin::Menu item-->
-                                                <div class="menu-item px-3">
-                                                    <a href="#" class="menu-link px-3">
-                                                        Staff Group
-                                                    </a>
-                                                </div>
-                                                <!--end::Menu item-->
-
-                                                <!--begin::Menu item-->
-                                                <div class="menu-item px-3">
-                                                    <a href="#" class="menu-link px-3">
-                                                        Member Group
-                                                    </a>
-                                                </div>
-                                                <!--end::Menu item-->
-                                            </div>
-                                            <!--end::Menu sub-->
-                                        </div>
-                                        <!--end::Menu item-->
-
-                                        <!--begin::Menu item-->
-                                        <div class="menu-item px-3">
-                                            <a href="#" class="menu-link px-3">
-                                                New Contact
-                                            </a>
-                                        </div>
-                                        <!--end::Menu item-->
-
-                                        <!--begin::Menu separator-->
-                                        <div class="separator mt-3 opacity-75"></div>
-                                        <!--end::Menu separator-->
-
-                                        <!--begin::Menu item-->
-                                        <div class="menu-item px-3">
-                                            <div class="menu-content px-3 py-3">
-                                                <a class="btn btn-primary  btn-sm px-4" href="#">
-                                                    Generate Reports
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <!--end::Menu item-->
-                                    </div>
-                                    <!--end::Menu 2-->
-
-                                    <!--end::Menu-->
-                                </div>
-                                <!--end::Toolbar-->
-                            </div>
-                            <!--end::Header-->
-
-                            <!--begin::Body-->
-                            <div class="card-body pt-5">
-                                <!--begin::Item-->
-                                <div class="d-flex flex-stack">
-                                    <!--begin::Section-->
-                                    <a href="#" class="text-primary fw-semibold fs-6 me-2">Avg. Client
-                                        Rating</a>
-                                    <!--end::Section-->
-
-                                    <!--begin::Action-->
-                                    <button type="button"
-                                        class="btn btn-icon btn-sm h-auto btn-color-gray-500 btn-active-color-primary justify-content-end">
-                                        <i class="ki-duotone ki-exit-right-corner fs-2"><span class="path1"></span><span
-                                                class="path2"></span></i>
-                                    </button>
-                                    <!--end::Action-->
-                                </div>
-                                <!--end::Item-->
-
-                                <!--begin::Separator-->
-                                <div class="separator separator-dashed my-3"></div>
-                                <!--end::Separator-->
-
-                                <!--begin::Item-->
-                                <div class="d-flex flex-stack">
-                                    <!--begin::Section-->
-                                    <a href="#" class="text-primary fw-semibold fs-6 me-2">Instagram
-                                        Followers</a>
-                                    <!--end::Section-->
-
-                                    <!--begin::Action-->
-                                    <button type="button"
-                                        class="btn btn-icon btn-sm h-auto btn-color-gray-500 btn-active-color-primary justify-content-end">
-                                        <i class="ki-duotone ki-exit-right-corner fs-2"><span class="path1"></span><span
-                                                class="path2"></span></i>
-                                    </button>
-                                    <!--end::Action-->
-                                </div>
-                                <!--end::Item-->
-
-                                <!--begin::Separator-->
-                                <div class="separator separator-dashed my-3"></div>
-                                <!--end::Separator-->
-
-                                <!--begin::Item-->
-                                <div class="d-flex flex-stack">
-                                    <!--begin::Section-->
-                                    <a href="#" class="text-primary fw-semibold fs-6 me-2">Google Ads
-                                        CPC</a>
-                                    <!--end::Section-->
-
-                                    <!--begin::Action-->
-                                    <button type="button"
-                                        class="btn btn-icon btn-sm h-auto btn-color-gray-500 btn-active-color-primary justify-content-end">
-                                        <i class="ki-duotone ki-exit-right-corner fs-2"><span class="path1"></span><span
-                                                class="path2"></span></i>
-                                    </button>
-                                    <!--end::Action-->
-                                </div>
-                                <!--end::Item-->
-
-
-
-                            </div>
-                            <!--end::Body-->
-                        </div>
-                        <!--end::LIst widget 26-->
-
-
-
-                    </div>
-                    <!--end::Col-->
-
-                    <!--begin::Col-->
-                    <div class="col-xxl-6">
-
-                        <!--begin::Engage widget 10-->
-                        <div class="card card-flush h-md-100">
-                            <!--begin::Body-->
-                            <div class="card-body d-flex flex-column justify-content-between mt-9 bgi-no-repeat bgi-size-cover bgi-position-x-center pb-0"
-                                style="background-position: 100% 50%; background-image:url('assets/media/stock/900x600/42.png')">
-                                <!--begin::Wrapper-->
-                                <div class="mb-10">
-                                    <!--begin::Title-->
-                                    <div class="fs-2hx fw-bold text-gray-800 text-center mb-13">
-                                        <span class="me-2">
-                                            Try our all new Enviroment with
-                                            <br />
-                                            <span class="position-relative d-inline-block text-danger">
-                                                <a href="pages/user-profile/overview.html"
-                                                    class="text-danger opacity-75-hover">Pro Plan</a>
-
-                                                <!--begin::Separator-->
-                                                <span
-                                                    class="position-absolute opacity-15 bottom-0 start-0 border-4 border-danger border-bottom w-100"></span>
-                                                <!--end::Separator-->
-                                            </span>
-                                        </span>
-                                        for Free
-                                    </div>
-                                    <!--end::Title-->
-
-                                    <!--begin::Action-->
-                                    <div class="text-center">
-                                        <a href='#' class="btn btn-sm btn-dark fw-bold" data-bs-toggle="modal"
-                                            data-bs-target="#kt_modal_upgrade_plan">
-                                            Upgrade Now
-                                        </a>
-                                    </div>
-                                    <!--begin::Action-->
-                                </div>
-                                <!--begin::Wrapper-->
-
-                                <!--begin::Illustration-->
-                                <img class="mx-auto h-150px h-lg-200px  theme-light-show"
-                                    src="assets/media/illustrations/misc/upgrade.svg" alt="" />
-                                <img class="mx-auto h-150px h-lg-200px  theme-dark-show"
-                                    src="assets/media/illustrations/misc/upgrade-dark.svg" alt="" />
-                                <!--end::Illustration-->
-                            </div>
-                            <!--end::Body-->
-                        </div>
-                        <!--end::Engage widget 10-->
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <?php
 require_once 'inc/footer.php';

@@ -1,6 +1,7 @@
 jQuery(document).ready(function() {
     canvas = new fabric.Canvas('canvas');
     setBG();
+    initUndoRedo();
 
     // Change T-SHirt on Click
     jQuery(document).on('click', '.products a', function(e) {
@@ -101,5 +102,35 @@ function deleteLayer() {
         canvas.remove(activeObject); // Remove the selected object
     } else {
         alert('No object selected.');
+    }
+}
+
+function initUndoRedo() {
+    if(typeof canvas === 'undefined') {
+        canvas.on("object:added", function () {
+            if (!isRedoing) {
+                h = [];
+            }
+            isRedoing = false;
+        });
+    }
+}
+var isRedoing = false;
+var h = [];
+function undo() {
+    if (canvas._objects.length > 0) {
+        h.push(canvas._objects.pop());
+        canvas.renderAll();
+    } else {
+        if (confirm("Background will be removed. This Action Can't Be Undone.")) {
+            resetCanvas();
+        }
+    }
+}
+function redo() {
+    if (h.length > 0) {
+        isRedoing = true;
+        canvas.add(h.pop());
+        canvas.renderAll();
     }
 }

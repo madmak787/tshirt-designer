@@ -1,46 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html class="no-js">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom T-Shirt Designer</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />
-    <link href="assets/css/plugins.bundle.css" rel="stylesheet" type="text/css"/>
-    <link href="assets/css/style.bundle.css" rel="stylesheet" type="text/css"/>
-    <!-- <link href="../assets/plugins/custom/datatables/datatables.bundle.css" rel="stylesheet" type="text/css"/> -->
-    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-lightness/jquery-ui.css" rel="stylesheet" type="text/css"/>
-    <link href="assets/css/jquery.colorpicker.css" rel="stylesheet" type="text/css"/>
-    <link href="assets/css/customizer.css" rel="stylesheet" type="text/css"/>
-    <script>
-        var siteURL = 'http://localhost/tshirt/';
-        var canvas;
-        var defaultThemeMode = "light";
-        var themeMode;
-
-        if ( document.documentElement ) {
-            if ( document.documentElement.hasAttribute("data-bs-theme-mode")) {
-                themeMode = document.documentElement.getAttribute("data-bs-theme-mode");
-            } else {
-                if ( localStorage.getItem("data-bs-theme") !== null ) {
-                    themeMode = localStorage.getItem("data-bs-theme");
-                } else {
-                    themeMode = defaultThemeMode;
-                }			
-            }
-
-            if (themeMode === "system") {
-                themeMode = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-            }
-
-            document.documentElement.setAttribute("data-bs-theme", themeMode);
-        }            
-    </script>
+    <meta charset="utf-8">
+    <title>Custom T-SHirt Designer</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Poppins:100,200,300,400,400italic,500,700,700italic,900'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:100,200,300,400,400italic,500,700,700italic,900'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Comfortaa:100,200,300,400,400italic,500,700,700italic,900'>
+    <link rel='stylesheet' href='css/global.css'>
+    <link rel='stylesheet' href='css/structure.css'>
+    <link rel='stylesheet' href='css/computershop.css'>
+    <link rel='stylesheet' href='css/custom.css'>
 </head>
+<body class="home page-template-default page theme-betheme woocommerce-no-js template-slider  color-custom style-simple button-custom layout-full-width if-zoom if-border-hide no-content-padding no-shadows header-classic header-fw minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-no-borders mobile-tb-center mobile-side-slide mobile-mini-mr-lc tablet-sticky mobile-header-mini mobile-sticky">
+    <div id="Wrapper">
+        <div id="Header_wrapper">
+            <header id="Header">
+                <div id="Top_bar">
+                    <div class="container">
+                        <div class="column one">
+                            <div class="top_bar_left clearfix">
+                                <div class="logo">
+                                    <a id="logo" href="index.php" title="BeComputerShop - Betheme" data-height="60" data-padding="30">
+                                        <img class="logo-main scale-with-grid" src="images/logo.png" data-height="99" alt="computershop" data-no-retina>
+                                        <img class="logo-sticky scale-with-grid" src="images/logo.png" data-height="99" alt="computershop" data-no-retina>
+                                        <img class="logo-mobile scale-with-grid" src="images/logo.png" data-height="99" alt="computershop" data-no-retina>
+                                        <img class="logo-mobile-sticky scale-with-grid" src="images/logo.png" data-height="99" alt="computershop" data-no-retina>
+                                    </a>
+                                </div>
+                                <div class="menu_wrapper">
+                                    <nav id="menu">
+                                        <ul id="menu-main-menu" class="menu menu-main">
+                                            <li class=" current-menu-item page_item current_page_item">
+                                                <a href="index.php"><span>HOME</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="customizer.php"><span>T-SHIRT DESIGNER</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="about.php"><span>ABOUT</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="contact.php"><span>CONTACT</span></a>
+                                            </li>
+                                        </ul>
+                                    </nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu-fine"></i></a>
+                                </div>
 
-<body id="kt_app_body" data-kt-app-layout="dark-sidebar" data-kt-app-header-fixed="true" data-kt-app-sidebar-enabled="true" data-kt-app-sidebar-fixed="true" data-kt-app-sidebar-minimize="on" data-kt-app-sidebar-hoverable="true" data-kt-app-sidebar-push-header="true" data-kt-app-sidebar-push-toolbar="true" data-kt-app-sidebar-push-footer="true" data-kt-app-toolbar-enabled="true" class="app-default">
-    <div class="d-flex flex-column flex-root app-root" id="kt_app_root">
-        <div class="app-page  flex-column flex-column-fluid " id="kt_app_page">
-            <?php require_once 'app-header.php';?>
-            <div class="app-wrapper  flex-column flex-row-fluid " id="kt_app_wrapper">
-                <?php require_once 'sidebar.php';?>
+                            </div>
+                            <div class="top_bar_right">
+                                <div class="top_bar_right_wrapper">
+                                    <a id="header_cart" href="#"><i class="icon-cart"></i><span>0</span></a><a id="search_button" href="#"><i class="icon-search-fine"></i></a><a href="#" class="action_button">MY ACCOUNT <i class="icon-right-open"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </header>
+        </div>
+        <div id="Content">

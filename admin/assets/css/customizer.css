@@ -40,12 +40,12 @@
 .ctd-menu span {
 	display: block;
 }
-.products, .images {
+.products, .images, .text {
 	padding: 0;
 	margin: 0;
 	list-style: none;
 }
-.products li, .images li {
+.products li, .images li, .text li {
     display: inline-block;
 	width: 48%;
 }
@@ -93,4 +93,17 @@ canvas {
 	left: 0;
 	right: 0;
 	bottom: 0;
+}
+.text {
+	margin-top: 2rem;
+}
+.text li {
+	width: 100%;
+}
+.text li > * {
+	width: 100%;
+	margin-bottom: 5px;
+}
+.text li button[type="button"] {
+	display: none;
 }
